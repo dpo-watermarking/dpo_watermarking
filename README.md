@@ -104,57 +104,6 @@ python eval_quality.py \
   --model_path meta-llama/llama-2-7b-hf
 ```
 
----
-
-## Citation
-
-If you use this code, please cite our paper and k-SEMSTAMP:
-```bibtex
-@inproceedings{to-be-updated,
-    title = "Distilling Semantic Watermarks: Accelerating Text Generation via Preference Optimization",
-    author = "",
-    booktitle = "",
-    year = "2026",
-    url = "1",
-}
-
-
-@inproceedings{hou-etal-2023-semstamp,
-    title = "SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation",
-    author = "Hou, Abe Bohan*  and
-      Zhang, Jingyu*  and
-      He, Tianxing*  and
-      Chuang, Yung-Sung  and
-      Wang, Hongwei  and
-      Shen, Lingfeng and
-      Van Durme, Benjamin and
-      Khashabi, Daniel  and
-      Tsvetkov, Yulia",
-    booktitle = "Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-    year = "2023",
-    url = "https://arxiv.org/abs/2310.03991",
-}
-
-@inproceedings{hou-etal-2024-k,
-    title = "k-{S}em{S}tamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text",
-    author = "Hou, Abe  and
-      Zhang, Jingyu  and
-      Wang, Yichen  and
-      Khashabi, Daniel  and
-      He, Tianxing",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.findings-acl.98",
-    doi = "10.18653/v1/2024.findings-acl.98",
-    pages = "1706--1715",
-}
-
 ```
 
 
