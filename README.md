@@ -104,14 +104,6 @@ python eval_quality.py \
   --model_path meta-llama/llama-2-7b-hf
 ```
 
-```
-
-
-
-
-
-
-
 
 
 
